@@ -9,3 +9,5 @@
 #### Тест 1
 ![image](https://user-images.githubusercontent.com/113354368/193446194-5ccbee15-2280-49d2-8eae-d56b64237ff6.png)
 
+#### Тест 2
+![image](https://user-images.githubusercontent.com/113354368/193446292-a22fb11d-7888-4a0a-aa33-0be10f2e15e6.png)

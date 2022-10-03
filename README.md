@@ -10,4 +10,4 @@
 ![image](https://user-images.githubusercontent.com/113354368/193556890-04f9e2ee-7bb2-4d02-ad08-2014df99939a.png)
 
 #### Тест 2
-![image](https://user-images.githubusercontent.com/113354368/193446292-a22fb11d-7888-4a0a-aa33-0be10f2e15e6.png)
+![image](https://user-images.githubusercontent.com/113354368/193557087-88f56b39-9c0c-4a7f-985e-b77bed1d0929.png)

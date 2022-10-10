@@ -8,7 +8,7 @@ try:
         rasstoyanie_dom.append(int(input('Введите количество км до дома сотрудника ' + str(i + 1) + ': '))) 
     tarif = []
     for i in range(N):
-        tarif.append(int(input(str(i + 1)+" такси с тарифом за 1 км" + ': '))) ов
+        tarif.append(int(input(str(i + 1)+" такси с тарифом за 1 км" + ': '))) 
 
     taxis = []
     sum = 0
